@@ -1,1 +1,1 @@
-# DrivingGraphAttn
+# Code for the paper "ZERO-FEATURE GRAPH LEARNING FOR TRAFFIC SCENE ANALYSIS"
