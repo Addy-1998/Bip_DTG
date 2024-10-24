@@ -5,10 +5,11 @@
   <img src="https://github.com/Addy-1998/Bip_DTG/blob/main/images/Main_Fig_1.png?raw=true" alt="Main Figure of Bipartite Graph" width="100%" />
   
 </p>
-## Link to the Paper
-You can access the full paper here: [Driving Through Graphs: A Bipartite Graph for Traffic Scene Analysis](https://ieeexplore.ieee.org/document/10647492)
 ## Description
 This project introduces a novel approach for traffic scene analysis using frame-to-frame (f2f) bipartite graphs, which efficiently capture spatio-temporal relationships between objects in driving videos. The method simplifies the complexity typically associated with image-level high-dimensional feature extraction by representing 2D bounding boxes, object class and inferring euclidean information from it.
+
+## Link to the Paper
+You can access the full paper here: [Driving Through Graphs: A Bipartite Graph for Traffic Scene Analysis](https://ieeexplore.ieee.org/document/10647492)
 
 ## Installation
 
