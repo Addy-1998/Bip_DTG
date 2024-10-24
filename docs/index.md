@@ -11,11 +11,5 @@ We introduce a novel approach for traffic scene analysis in driving videos by ex
 ## Performance Comparison
 Our model outperforms state-of-the-art methods on both accuracy and mean average precision (mAP) on the [METEOR Dataset](https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/) and the [INTERACTION Dataset](https://interaction-dataset.com/).
 
-![Results Table](images/Capture.png)
-## Visualizations
-Below is an example confusion matrix showing the classification results.
+![Results Table](images/Capture.PNG)
 
-![Confusion Matrix](images/confusion_matrix.png)
-
-## Ablation Studies
-We conducted ablation studies to evaluate the contribution of different components in our approach.
