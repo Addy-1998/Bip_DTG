@@ -49,7 +49,7 @@ python main.py --train_directory path/to/train --test_directory path/to/test --n
 You can adjust parameters such as `--batch_size`, `--learning_rate`, and others depending on your computational resources and requirements.
 # Graph Visualization
 
-This project includes a Python script `visualize_graphs.py` that facilitates the visualization of graph structures from `.pt` files using NetworkX and matplotlib. This script automatically loads graph data from `.pt` files located in a specified directory and displays each graph with a spring layout, providing a clear view of nodes and their connections.
+This project includes a Python script `visualize_graphs.py` that facilitates the visualization of the temporal bipartite graph from `.pt` files using NetworkX and matplotlib. This script automatically loads graph data from `.pt` files located in a specified directory and displays each graph with a spring layout, providing a clear view of nodes and their connections.
 
 ### Usage
 
