@@ -10,4 +10,8 @@ We introduce a novel approach for traffic scene analysis in driving videos by ex
 Our model outperforms state-of-the-art methods on both accuracy and mean average precision (mAP) on the [METEOR Dataset](https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/) and the [INTERACTION Dataset](https://interaction-dataset.com/).
 
 ![Results Table](images/Capture.PNG)
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
 
+## Acknowledgements
+- This research was partially funded by the UKRI EPSRC project ATRACT (EP/X028631/1): A Trustworthy Robotic Autonomous System for Casualty Triage.
