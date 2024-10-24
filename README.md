@@ -1,8 +1,9 @@
 
 # Driving Through Graphs: A Bipartite Graph for Traffic Scene Analysis
 <p align="center">
-  <img src="https://github.com/Addy-1998/Bip_DTG/blob/main/images/Main_Fig_1.png?raw=true" alt="Main Figure of Bipartite Graph" width="70%" />
-  <img src="https://github.com/Addy-1998/Bip_DTG/blob/main/images/Teaser_fig_1.png?raw=true" alt="Second Main Figure" width="30%" />
+  <img src="https://github.com/Addy-1998/Bip_DTG/blob/main/images/Teaser_fig_1.png?raw=true" alt="Second Main Figure" width="40%" />
+  <img src="https://github.com/Addy-1998/Bip_DTG/blob/main/images/Main_Fig_1.png?raw=true" alt="Main Figure of Bipartite Graph" width="80%" />
+  
 </p>
 
 ## Description
