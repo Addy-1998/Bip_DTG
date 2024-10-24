@@ -1,0 +1,48 @@
+# Driving Through Graphs: A Bipartite Graph for Traffic Scene Analysis
+
+## Overview
+We introduce a novel approach for traffic scene analysis in driving videos using frame-to-frame (f2f) bipartite graphs. Our method models multi-object interactions with minimal computational cost by relying on object bounding boxes and a graph-based framework.
+
+The proposed technique significantly improves the accuracy and efficiency of traffic scene analysis, providing a promising solution for autonomous driving technologies.
+
+[Read the Paper](https://ieeexplore.ieee.org/document/10647492)
+
+[GitHub Repository](https://github.com/Addy-1998/Bip_DTG)
+
+---
+
+## Introduction
+Driving action recognition is crucial for the safety and reliability of autonomous vehicles. This project addresses challenges in accurately interpreting driving actions by utilizing graph neural networks (GNNs) for video-based traffic scene analysis.
+
+---
+
+## Methodology
+Our approach consists of two main components:
+1. **Graph Construction**: We create a temporal frame-to-frame bipartite graph to model object interactions across frames.
+2. **Interaction Aware GNN (IA-GNN)**: We process the graph with a specialized GNN that incorporates dynamic edge attributes, computed using multilayer perceptrons (MLPs).
+
+---
+
+## Experiments
+We evaluate our approach on two datasets:
+- **METEOR Dataset**: Contains 1250 videos of various traffic scenes with over 2 million annotated frames.
+- **INTERACTION Dataset**: Consists of bird’s-eye view traffic footage from different traffic scenarios.
+
+---
+
+## Results
+Our model achieves superior performance compared to state-of-the-art methods, with significant improvements in both accuracy and mean average precision (mAP).
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+## Conclusion
+The proposed graph-based approach enhances the understanding of multi-object interactions in traffic scenes, paving the way for advanced driver assistance systems.
+
+---
+
+## Links and Resources
+- [Paper](https://ieeexplore.ieee.org/document/10647492)
+- [GitHub Repository](https://github.com/Addy-1998/Bip_DTG)
+- [Dataset Download](https://drive.google.com/file/d/1T5PFb3iW6g8OnVl2SGuuB5Dqg9Ita2-h/view?usp=drive_link)
