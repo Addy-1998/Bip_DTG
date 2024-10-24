@@ -8,6 +8,9 @@ This project introduces a novel approach for traffic scene analysis using frame-
 
 ### Prerequisites
 Ensure you have Python 3.8+ installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
+## METEOR Dataset Graphs Download
+To download the constructed temporal bipartite graphs from the METEOR Dataset, which is used for training and evaluating the models, please use the following link:
+[METEOR Dataset Download](https://drive.google.com/file/d/1T5PFb3iW6g8OnVl2SGuuB5Dqg9Ita2-h/view?usp=drive_link)
 
 ### Virtual Environment Setup (Recommended)
 Recommended installation is Anaconda(https://www.anaconda.com/download)
@@ -44,7 +47,19 @@ python main.py --train_directory path/to/train --test_directory path/to/test --n
 ```
 
 You can adjust parameters such as `--batch_size`, `--learning_rate`, and others depending on your computational resources and requirements.
+# Graph Visualization
 
+This project includes a Python script `visualize_graphs.py` that facilitates the visualization of graph structures from `.pt` files using NetworkX and matplotlib. This script automatically loads graph data from `.pt` files located in a specified directory and displays each graph with a spring layout, providing a clear view of nodes and their connections.
+
+### Usage
+
+To use the visualization script, you need to update the `directory_path` in the script to the location where your `.pt` files are stored. After setting the correct path, run the script as follows:
+
+```bash
+python visualize_graphs.py
+```
+
+This will load each `.pt` file in the directory, convert it into a NetworkX graph, and display it using matplotlib, showing nodes, edges, and labels.
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
