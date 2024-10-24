@@ -7,7 +7,7 @@ We introduce a novel approach for traffic scene analysis in driving videos by ex
 ![Demo GIF](images/main.gif)
 
 ## Interaction Aware Graph Neural Network (IA-GNN)
-
+![IA-GNN](images/Main_Fig_1.PNG)
 **Interaction Aware Graph Neural Network (IA-GNN)** is a specialized type of Graph Neural Network designed to model and analyze interactions between multiple objects in a dynamic environment. In the context of traffic scene analysis, IA-GNN processes a graph where nodes represent objects (e.g., vehicles, pedestrians) and edges capture interactions or relationships between these objects.
 
 ### Key Features of IA-GNN:
