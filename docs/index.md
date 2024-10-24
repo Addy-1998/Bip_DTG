@@ -1,12 +1,5 @@
 
 # Driving Through Graphs: A Bipartite Graph for Traffic Scene Analysis
-## Authors
-- Aditya Humnabadkar [![ORCID](https://orcid.org/0000-0002-9301-393X)
-- Arindam Sikdar [![ORCID](https://orcid.org/0000-0002-5697-0060)
-- Huaizhong Zhang [![ORCID](https://orcid.org/0000-0001-7867-9453)
-- Tanveer Hussain [![ORCID](https://orcid.org/0000-0003-4861-8347)
-- Ardhendu Behera [![ORCID](https://orcid.org/0000-0003-0276-9000)
-
 [Read the Paper](https://ieeexplore.ieee.org/document/10647492)
 
 # Abstract
