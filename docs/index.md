@@ -37,5 +37,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
   keywords={Measurement;Analytical models;Technological innovation;Image analysis;Image edge detection;Feature extraction;Bipartite graph;graph neural networks;relational learning;spatio-temporal relationships;knowledge representation;traffic scene analysis;graph attention;and bipartite graphs},
   doi={10.1109/ICIP51287.2024.10647492}
 }
+```
 ## Acknowledgements
 - This research was partially funded by the UKRI EPSRC project ATRACT (EP/X028631/1): A Trustworthy Robotic Autonomous System for Casualty Triage.
